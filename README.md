@@ -60,7 +60,6 @@ If you're experiencing issues launching the LogiONE Document Desktop App on Ubun
 
 Please note that running the app with `--no-sandbox` might expose your system to additional security risks. Use this workaround only if you understand the implications.
 
-
 ## Support
 
 If you need any assistance or require a version for a different architecture, please contact our support team. We're here to help!
@@ -74,7 +73,7 @@ Thank you for using LogiONE Document!
 
 ---
 
-----
+
 <br>
 <br>
 
@@ -138,6 +137,9 @@ Veuillez noter que lancer l'application avec `--no-sandbox` peut exposer votre s
 ## Support
 
 Si vous avez besoin d'assistance ou si vous nécessitez une version pour une architecture différente, veuillez contacter notre équipe de support. Nous sommes là pour aider !
+
+- **E-mail:** info@logi.one
+- **Téléphone:** +41 21 552 15 15
 
 ---
 
