@@ -1,4 +1,5 @@
-# LogiONE Document Desktop App [Français](#À propos)
+# LogiONE Document Desktop App
+[Français](https://github.com/logione/document-app/blob/main/README.md#%C3%A0-propos)
 
 Welcome to the LogiONE Document Desktop App repository. This repository is dedicated to publishing the latest releases of the desktop version of LogiONE Document.
 
