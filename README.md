@@ -46,6 +46,12 @@ LogiONE Document is a powerful document management tool that streamlines the pro
 1. Download the `.exe` file from the [Releases](https://github.com/logione/document-app/releases) page.
 2. Double-click on the downloaded file to start the installation process.
 
+### Mac (.dmg)
+
+1. Download the `.dmg`file from the [Releases](https://github.com/logione/document-app/releases) page.
+2. Double-click on the downloaded file.
+3. Drag and drop LogiONE Document` to the `Applications` folder.
+
 ## Troubleshooting
 
 ### Ubuntu: Launching the App with `--no-sandbox` switch
@@ -120,11 +126,17 @@ LogiONE Document est un outil puissant de gestion de documents qui simplifie le 
 1. Téléchargez le fichier `.exe` depuis la page des [Releases](https://github.com/logione/document-app/releases).
 2. Double-cliquez sur le fichier téléchargé pour commencer le processus d'installation.
 
+### Mac (.dmg)
+
+1. Téléchargez le fichier `.exe` depuis la page des [Releases](https://github.com/logione/document-app/releases).
+2. Double-cliquez sur le fichier téléchargé.
+3. Glissez-déposez le fichier `LogiONE Document` dans le dossier `Applications
+
 ## Dépannage
 
 ### Ubuntu : Lancer l'application avec l'option `--no-sandbox`
 
-Si vous rencontrez des problèmes pour lancer l'application LogiONE Document Desktop sur Ubuntu, il peut être nécessaire de démarrer l'application avec l'option `--no-sandbox`. Ceci est particulièrement pertinent si vous rencontrez des erreurs liées aux permissions ou au sandbox. Pour ce faire :
+Si vous rencontrez des problèmes pour lancer l'application LogiONE Document Desktop sur Ubuntu, il peut être nécessaire de démarrer l'application avec l'option `--no-sandbox`. Ceci est particulièrement pertinent si vous rencontrez des erreurs liées aux permissions. Pour ce faire :
 
 1. Ouvrez un terminal.
 2. Lancez l'application avec l'option `--no-sandbox` en exécutant :
